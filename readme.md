@@ -1,0 +1,1 @@
+hello this a very beutiful game called brickman made by me.remember there is no close button in game you will have to use alt + f4 to close the game window. if you failed the game then restart it to play again.
